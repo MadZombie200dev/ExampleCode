@@ -1,4 +1,5 @@
 --Made by MadZombie_2005
+--Made this in a few min as a part of the prototype RPG its bad and does very little and I have no Idea why I didn't use Roblox Character Pathfinding
 
 --This Script Can not be used commercialy
 --Define vars
