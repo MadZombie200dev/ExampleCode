@@ -1,4 +1,5 @@
 --Made by MadZombie_2005
+--this is some code from a prototype proof of concept RPG I made to demo to a dif dev team
 --This Script Can not be used comercialy 
 local inventory_module = require(game.ReplicatedStorage.Inventory)
 local Players = game:GetService("Players")
