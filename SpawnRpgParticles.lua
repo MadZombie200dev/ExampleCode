@@ -1,4 +1,6 @@
 --MadZombie_2005
+--some was copy and pasted a bit (I made the demo In a day) this is from a RPG prototype I made
+
 --This Script Can not be used commercialy
 game.Players.PlayerAdded:Connect(function(player)
 	--print(player.Name.." joined")
